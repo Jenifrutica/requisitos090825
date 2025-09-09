@@ -77,7 +77,7 @@ btn_pay = tk.Button(
     root, 
     text=languages[current_lang]["pay"], 
     command=pay_course, 
-    font=("Arial", 12), 
+    font=("Lucida Handwriting", 12), 
     bg=COLOR_MID,
     fg=COLOR_WHITE,
     activebackground=COLOR_LIGHT,
